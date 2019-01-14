@@ -19,7 +19,7 @@ Este repositorio contiene los scripts necesarios para correr el programa  de pyt
 
 ### Video demostrativo
 <p align="center">
-  <img width="600" height="200" src="https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif">
+  <img width="640" height="480" src="https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif">
 </p>
 
 ![alt text](https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif)
