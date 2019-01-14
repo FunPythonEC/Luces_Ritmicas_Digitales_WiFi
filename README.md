@@ -18,7 +18,7 @@ Este repositorio contiene los scripts necesarios para correr el programa  de pyt
 ![alt text](https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/diagrama%20raspberry-pi.png)
 
 ### Video demostrativo
-<copy>https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif)</center>
+![alt text](https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif)
 
 > <div style="padding:16px;">
 > <div style="padding-top: 8px;">
