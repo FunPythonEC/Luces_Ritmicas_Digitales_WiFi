@@ -15,11 +15,11 @@ Este repositorio contiene los scripts necesarios para correr el programa  de pyt
 ### Esquema con microcontrolador
 ![alt text](https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/diagrama%20ESP.png)
 ### Esquema con Raspberry Pi
-https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/diagrama%20raspberry-pi.png
-
+![alt text](https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/diagrama%20raspberry-pi.png)
 
 ### Video demostrativo
-https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif
+![alt text](https://github.com/jhonpaulo98/Luces_Ritmicas_Digitales_WiFi/blob/master/imagenes/demostracion.gif)
+
 > <div style="padding:16px;">
 > <div style="padding-top: 8px;">
 > <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">Ver esta publicación en Instagram</div>
