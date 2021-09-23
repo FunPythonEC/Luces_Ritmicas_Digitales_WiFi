@@ -8,7 +8,7 @@ Este repositorio contiene los scripts necesarios para correr el programa  de pyt
 En la carpeta python esta los scripts para el programa que analiza el audio y crea las ondas RGB que son enviadas via WiFi al microcontrolador.
 En la carpeta micropython se encuentran las dos versiones del programa que recib ey decodifica los paquetes udp que son mostrados en los pixeles de las tiras rgb.
 
-El proyecto original usana ARDUINO pero decidi hacerlo con micrpython al inicio no habia encontrado la libreria en micropython adecauda para la decodificacion de los paquetes UDP asi que fue hecho casi manual por lo que el codigo crecia mucho y pasando los 50 pixeles se hacia muy tedioso, en la version 2 ya se hace soluciono este porblema y en un par de lineas decodifica los "bytes de colores" que llegan por WIFI, mejoró significativamente el rendimiento por lo que la vizualizacion de los efectos en las tiras RGB.
+El proyecto original usaba ARDUINO pero decidi hacerlo con micrpython al inicio no habia encontrado la libreria en micropython adecauda para la decodificacion de los paquetes UDP asi que fue hecho casi manual por lo que el codigo crecia mucho y pasando los 50 pixeles se hacia muy tedioso, en la version 2 ya se hace soluciono este porblema y en un par de lineas decodifica los "bytes de colores" que llegan por WIFI, mejoró significativamente el rendimiento por lo que la vizualizacion de los efectos en las tiras RGB.
 
 
 ### Esquema con microcontrolador
